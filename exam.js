@@ -1,2 +1,1 @@
-console.log("hello,develop")
-hello,world
+console.log("hello,develop"
